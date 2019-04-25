@@ -1,0 +1,26 @@
+[
+    {"id":1,
+     "index":0,
+     "name":"Customer",
+     "picture":"customers/customer1.jpg",
+     "review":"nice website created one day you will succeed keep going on hard work is the only key to success"   
+    },
+    {"id":2,
+     "index":1,
+     "name":"Customer",
+     "picture":"customers/customer2.jpg",
+     "review":"nice website created one day you will succeed keep going on hard work is the only key to success"   
+    },
+    {"id":3,
+     "index":2,
+     "name":"Customer",
+     "picture":"customers/customer3.jpg",
+     "review":"nice website created one day you will succeed keep going on hard work is the only key to success"   
+    },
+    {"id":4,
+     "index":3,
+     "name":"Cutomer",
+     "picture":"customers/customer4.jpg",
+     "review":"nice website created one day you will succeed keep going on hard work is the only key to success"   
+    }
+]
