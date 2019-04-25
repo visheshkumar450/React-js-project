@@ -8,12 +8,12 @@ This website is used to provide all the infomration about various bots ,robots,t
 
 Full Website Video
 
-[Here:-]{https://drive.google.com/file/d/1YALQooO_PWeYM7GzErV40bRm-wPPo9iB/view?usp=sharing}
+Here:-{https://drive.google.com/file/d/1YALQooO_PWeYM7GzErV40bRm-wPPo9iB/view?usp=sharing}
 
 
 Images of Website
 
-![Hovering-Efffect]{https://drive.google.com/open?id=18X8xjCuYMUT7kFXg99MnBk22Sc2GaNdU}
+![Hovering-Efffect]{https://drive.google.com/file/d/18X8xjCuYMUT7kFXg99MnBk22Sc2GaNdU/view?usp=sharing}
 
 
 ![Slide-Show]{https://drive.google.com/open?id=1DZcInsZwKPQ4fQzag7UqSN76gVj8uMXF}
